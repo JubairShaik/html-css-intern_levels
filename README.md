@@ -1,8 +1,4 @@
-# CodSoft
-Welcome, this is my codsoft internship repo. Checkout some awesome projects
-
-## **My Internship Projects**
-
+ 
 
 ### **Level One**
 
@@ -28,13 +24,4 @@ Built a responsive travel booking system with HTML, CSS, and JavaScript. Users c
 **Task 1**: Blog App
 Created a full-stack blog application using Next.js, Typescript, Tailwindcss and much more technologies with markdown. Users can create, edit, and publish their blog posts. The app also includes image upload functionality.
 
-
-Successfully completed all the tasks for all Levels, demonstrating proficiency in advanced web development concepts and technologies.
-
-Feel free to explore the code for each project in their respective folders. I hope you enjoy going through my journey of growth and learning as a developer.
-
-Thank you for visiting my GitHub repository!
-
-🌐 Explore more at My [Portfolio Website](https://portfolio-shreyas.vercel.app/)
-# html-css-intern_levels
-# html-css-intern_levels
+ 
